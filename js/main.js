@@ -35,7 +35,7 @@ $(document).ready(function() {
             plink: 'http://steamcommunity.com/profiles/76561198009999751'
 	},
         {
-            name: 'Codfather · ',
+            name: 'Codfather ·  ',
             plink: 'http://steamcommunity.com/profiles/76561198080436083'
 	},
 
