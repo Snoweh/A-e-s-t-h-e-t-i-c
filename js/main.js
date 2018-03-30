@@ -34,11 +34,6 @@ $(document).ready(function() {
             name: 'Nya',
             plink: 'http://steamcommunity.com/profiles/76561198009999751'
 	},
-        {
-            name: 'Codfather ·  ',
-            plink: 'http://steamcommunity.com/profiles/76561198080436083'
-	},
-
 
 
 ];
